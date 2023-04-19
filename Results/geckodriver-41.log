@@ -1,0 +1,18 @@
+1678428701276	geckodriver	INFO	Listening on 127.0.0.1:62888
+1678428701804	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62889" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileFBnwXo"
+1678428702185	Marionette	INFO	Marionette enabled
+2023-03-10 11:41:42.298 plugin-container[1880:54340] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:41:42.298 plugin-container[1880:54340] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:41:42.302 plugin-container[1880:54340] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:41:42.302 plugin-container[1880:54340] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:41:42.302 plugin-container[1880:54346] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:41:42.302 plugin-container[1880:54346] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1678428702364	Marionette	INFO	Listening on port 62902
+Read port: 62902
+WebDriver BiDi listening on ws://127.0.0.1:62889
+1678428702491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileFBnwXo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62889/devtools/browser/73adbd09-afa4-4148-a224-a00b9134103d
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678428710068	Marionette	INFO	Stopped listening on port 62902

@@ -1,0 +1,31 @@
+1679553560768	geckodriver	INFO	Listening on 127.0.0.1:60730
+1679553561297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60731" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileqR1kmI"
+1679553561704	Marionette	INFO	Marionette enabled
+1679553561798	Marionette	INFO	Listening on port 60736
+Read port: 60736
+2023-03-23 12:09:21.833 plugin-container[1854:72005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:09:21.833 plugin-container[1854:72005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:09:21.841 plugin-container[1854:72005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:09:21.841 plugin-container[1854:72005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:09:21.841 plugin-container[1854:72010] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:09:21.841 plugin-container[1854:72010] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:60731
+1679553561907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileqR1kmI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60731/devtools/browser/3d684522-811c-4f28-81ea-c389c4b42487
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

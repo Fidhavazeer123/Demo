@@ -1,0 +1,20 @@
+1678440876187	geckodriver	INFO	Listening on 127.0.0.1:56699
+1678440876717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56700" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileLMJSxf"
+1678440877118	Marionette	INFO	Marionette enabled
+1678440877196	Marionette	INFO	Listening on port 56709
+2023-03-10 15:04:37.232 plugin-container[2881:208093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:04:37.232 plugin-container[2881:208093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:04:37.234 plugin-container[2881:208093] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:04:37.234 plugin-container[2881:208093] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:04:37.235 plugin-container[2881:208096] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:04:37.235 plugin-container[2881:208096] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 56709
+WebDriver BiDi listening on ws://127.0.0.1:56700
+1678440877310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileLMJSxf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56700/devtools/browser/ca2ab1c5-06a2-4057-b8c4-4537214bb7a0
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+1678441407180	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: timeout
+1678442205370	Marionette	INFO	Stopped listening on port 56709
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

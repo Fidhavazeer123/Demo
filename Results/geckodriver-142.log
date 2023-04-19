@@ -1,0 +1,24 @@
+1679556123687	geckodriver	INFO	Listening on 127.0.0.1:62988
+1679556123694	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62989" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQVMJtK"
+1679556124062	Marionette	INFO	Marionette enabled
+1679556124141	Marionette	INFO	Listening on port 62993
+2023-03-23 12:52:04.176 plugin-container[2789:125223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:52:04.176 plugin-container[2789:125223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:52:04.179 plugin-container[2789:125223] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:52:04.179 plugin-container[2789:125223] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:52:04.180 plugin-container[2789:125225] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:52:04.180 plugin-container[2789:125225] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 62993
+WebDriver BiDi listening on ws://127.0.0.1:62989
+1679556124279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQVMJtK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62989/devtools/browser/dec0c059-18cc-4c9a-b85f-1989ab026cf6
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1679556301810	Marionette	INFO	Stopped listening on port 62993
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'

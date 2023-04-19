@@ -1,0 +1,17 @@
+1678426308165	geckodriver	INFO	Listening on 127.0.0.1:52307
+1678426308679	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52308" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilech4wAe"
+1678426309074	Marionette	INFO	Marionette enabled
+1678426309155	Marionette	INFO	Listening on port 52317
+Read port: 52317
+2023-03-10 11:01:49.198 plugin-container[1105:24745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:01:49.198 plugin-container[1105:24745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:01:49.203 plugin-container[1105:24745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:01:49.203 plugin-container[1105:24745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:01:49.203 plugin-container[1105:24743] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:01:49.203 plugin-container[1105:24743] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:52308
+1678426309278	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilech4wAe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52308/devtools/browser/ff696323-4a9e-4cba-b77d-af6588a12bd3
+JavaScript warning: https://www.amazon.com/ line 1887 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1678426319948	Marionette	INFO	Stopped listening on port 52317

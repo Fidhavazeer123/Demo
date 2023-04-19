@@ -1,0 +1,18 @@
+1678180665562	geckodriver	INFO	Listening on 127.0.0.1:58754
+1678180666087	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58755" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilemZMvFo"
+1678180666476	Marionette	INFO	Marionette enabled
+1678180666561	Marionette	INFO	Listening on port 58764
+2023-03-07 14:47:46.609 plugin-container[1935:87033] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:47:46.609 plugin-container[1935:87033] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 58764
+2023-03-07 14:47:46.616 plugin-container[1935:87033] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:47:46.616 plugin-container[1935:87033] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-07 14:47:46.621 plugin-container[1935:87037] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:47:46.621 plugin-container[1935:87037] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:58755
+1678180666679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilemZMvFo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58755/devtools/browser/78bf7a59-6828-4489-9be3-ea3ccb77956c
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678180906332	Marionette	INFO	Stopped listening on port 58764

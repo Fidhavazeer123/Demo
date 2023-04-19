@@ -1,0 +1,20 @@
+1678181720368	geckodriver	INFO	Listening on 127.0.0.1:63507
+1678181720898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63508" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile52URsJ"
+1678181721313	Marionette	INFO	Marionette enabled
+1678181721392	Marionette	INFO	Listening on port 63517
+Read port: 63517
+2023-03-07 15:05:21.437 plugin-container[2276:98434] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 15:05:21.437 plugin-container[2276:98434] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-07 15:05:21.449 plugin-container[2276:98434] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 15:05:21.449 plugin-container[2276:98434] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-07 15:05:21.450 plugin-container[2276:98440] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 15:05:21.450 plugin-container[2276:98440] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:63508
+1678181721531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile52URsJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63508/devtools/browser/1da04dd5-6a84-4721-8bb9-810b65600800
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678182231525	Marionette	INFO	Stopped listening on port 63517
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1678182231590	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error

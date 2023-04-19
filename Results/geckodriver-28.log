@@ -1,0 +1,18 @@
+1678427140153	geckodriver	INFO	Listening on 127.0.0.1:56728
+1678427140673	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56729" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilecOxbKR"
+1678427141081	Marionette	INFO	Marionette enabled
+2023-03-10 11:15:41.235 plugin-container[1423:35195] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:15:41.236 plugin-container[1423:35195] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:15:41.253 plugin-container[1423:35195] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:15:41.253 plugin-container[1423:35195] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:15:41.254 plugin-container[1423:35197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:15:41.254 plugin-container[1423:35197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1678427141284	Marionette	INFO	Listening on port 56738
+Read port: 56738
+WebDriver BiDi listening on ws://127.0.0.1:56729
+1678427141421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilecOxbKR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56729/devtools/browser/c7b6c899-f382-4838-9ba9-689a12ee2593
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678427151697	Marionette	INFO	Stopped listening on port 56738

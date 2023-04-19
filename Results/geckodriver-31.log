@@ -1,0 +1,18 @@
+1678427288419	geckodriver	INFO	Listening on 127.0.0.1:57448
+1678427288937	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57449" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileu4tgPb"
+1678427289466	Marionette	INFO	Marionette enabled
+1678427289574	Marionette	INFO	Listening on port 57458
+2023-03-10 11:18:09.659 plugin-container[1513:37999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:09.660 plugin-container[1513:37999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:18:09.670 plugin-container[1513:37999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:09.670 plugin-container[1513:37999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:18:09.671 plugin-container[1513:38005] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:09.671 plugin-container[1513:38005] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57458
+WebDriver BiDi listening on ws://127.0.0.1:57449
+1678427289851	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileu4tgPb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57449/devtools/browser/e4883b8e-b484-4302-9211-fce5523ebf86
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678427297326	Marionette	INFO	Stopped listening on port 57458

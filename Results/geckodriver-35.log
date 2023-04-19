@@ -1,0 +1,18 @@
+1678427736340	geckodriver	INFO	Listening on 127.0.0.1:58841
+1678427736869	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58842" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile2oa9bu"
+1678427737247	Marionette	INFO	Marionette enabled
+1678427737331	Marionette	INFO	Listening on port 58847
+2023-03-10 11:25:37.362 plugin-container[1655:43742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:25:37.362 plugin-container[1655:43742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:25:37.365 plugin-container[1655:43742] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:25:37.365 plugin-container[1655:43742] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:25:37.365 plugin-container[1655:43745] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:25:37.365 plugin-container[1655:43745] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 58847
+WebDriver BiDi listening on ws://127.0.0.1:58842
+1678427737446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile2oa9bu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58842/devtools/browser/6abc5972-0628-46d1-9699-066b5ce3d8b5
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678427748998	Marionette	INFO	Stopped listening on port 58847

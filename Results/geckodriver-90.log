@@ -1,0 +1,22 @@
+1679309071665	geckodriver	INFO	Listening on 127.0.0.1:51359
+1679309072192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51360" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQx8JMr"
+1679309072580	Marionette	INFO	Marionette enabled
+2023-03-20 16:14:32.687 plugin-container[2653:119131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-20 16:14:32.687 plugin-container[2653:119131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-20 16:14:32.692 plugin-container[2653:119131] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-20 16:14:32.692 plugin-container[2653:119131] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-20 16:14:32.692 plugin-container[2653:119139] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-20 16:14:32.692 plugin-container[2653:119139] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679309072757	Marionette	INFO	Listening on port 51369
+WebDriver BiDi listening on ws://127.0.0.1:51360
+Read port: 51369
+1679309072874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQx8JMr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51360/devtools/browser/02e57512-0be2-43e7-9abe-26f2fe359a0c
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+1679315304556	Marionette	INFO	Stopped listening on port 51369
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

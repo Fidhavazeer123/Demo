@@ -1,0 +1,18 @@
+1678180918950	geckodriver	INFO	Listening on 127.0.0.1:59990
+1678180919481	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59991" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilenC8TGO"
+1678180919883	Marionette	INFO	Marionette enabled
+1678180919960	Marionette	INFO	Listening on port 60000
+2023-03-07 14:52:00.000 plugin-container[2040:90428] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:52:00.000 plugin-container[2040:90428] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 60000
+2023-03-07 14:52:00.003 plugin-container[2040:90428] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:52:00.003 plugin-container[2040:90428] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-07 14:52:00.004 plugin-container[2040:90433] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-07 14:52:00.004 plugin-container[2040:90433] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:59991
+1678180920080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofilenC8TGO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59991/devtools/browser/9e69e0aa-196d-48ce-8859-886e5f20771a
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678181625900	Marionette	INFO	Stopped listening on port 60000
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

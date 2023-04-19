@@ -1,0 +1,18 @@
+1678428817849	geckodriver	INFO	Listening on 127.0.0.1:63435
+1678428818381	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63436" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQ2sjjR"
+1678428818756	Marionette	INFO	Marionette enabled
+1678428818834	Marionette	INFO	Listening on port 63445
+2023-03-10 11:43:38.865 plugin-container[1942:56156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:43:38.865 plugin-container[1942:56156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:43:38.868 plugin-container[1942:56156] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:43:38.868 plugin-container[1942:56156] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:43:38.868 plugin-container[1942:56161] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:43:38.868 plugin-container[1942:56161] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63445
+WebDriver BiDi listening on ws://127.0.0.1:63436
+1678428818969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileQ2sjjR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63436/devtools/browser/74664746-d36f-4a16-95fc-24248faec9fd
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678428828439	Marionette	INFO	Stopped listening on port 63445

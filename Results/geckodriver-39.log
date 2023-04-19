@@ -1,0 +1,18 @@
+1678428365624	geckodriver	INFO	Listening on 127.0.0.1:61425
+1678428366154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61426" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile7EKTBd"
+1678428366536	Marionette	INFO	Marionette enabled
+1678428366609	Marionette	INFO	Listening on port 61439
+2023-03-10 11:36:06.646 plugin-container[1806:50050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:36:06.646 plugin-container[1806:50050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:36:06.649 plugin-container[1806:50050] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:36:06.649 plugin-container[1806:50050] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:36:06.649 plugin-container[1806:50057] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:36:06.649 plugin-container[1806:50057] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 61439
+WebDriver BiDi listening on ws://127.0.0.1:61426
+1678428366741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile7EKTBd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61426/devtools/browser/336f098f-e866-4954-8815-9cb558b109f1
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678428374531	Marionette	INFO	Stopped listening on port 61439

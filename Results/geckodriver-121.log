@@ -1,0 +1,61 @@
+1679553720218	geckodriver	INFO	Listening on 127.0.0.1:60880
+1679553720742	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60881" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileAzLNjt"
+1679553721161	Marionette	INFO	Marionette enabled
+2023-03-23 12:12:01.290 plugin-container[1924:75056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:12:01.290 plugin-container[1924:75056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:12:01.294 plugin-container[1924:75056] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:12:01.294 plugin-container[1924:75056] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:12:01.294 plugin-container[1924:75062] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:12:01.294 plugin-container[1924:75062] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679553721350	Marionette	INFO	Listening on port 60897
+Read port: 60897
+WebDriver BiDi listening on ws://127.0.0.1:60881
+1679553721461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileAzLNjt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60881/devtools/browser/5601034c-7e19-424d-b5e3-446a0cb7a35d
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript error: https://cdn.jsdelivr.net/npm/kzw@1.0.5/bootstrap.min.js, line 6: Error: Bootstrap dropdown require Popper.js (https://popper.js.org)
+JavaScript error: https://cdn.jsdelivr.net/npm/kzw@1.0.5/prism1.js, line 30: TypeError: document.getElementById(...) is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 1482 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 499 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 1999 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 3163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 3595 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 7055 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 510))
+2023-03-23 06:54:51.271 plugin-container[2154:89529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 06:54:51.271 plugin-container[2154:89529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 06:54:51.282 plugin-container[2154:89529] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 06:54:51.282 plugin-container[2154:89529] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 06:54:51.283 plugin-container[2154:89548] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 06:54:51.283 plugin-container[2154:89548] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://pagead2.googlesyndication.com/bg/5ZLoQB_z02QzB_hHqtk5fVBr8jKba2eTnMK3sia1eD8.js line 2 > eval line 1364 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

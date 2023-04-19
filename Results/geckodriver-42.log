@@ -1,0 +1,19 @@
+1678428721199	geckodriver	INFO	Listening on 127.0.0.1:63010
+1678428721728	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63011" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileghylzB"
+1678428722109	Marionette	INFO	Marionette enabled
+1678428722189	Marionette	INFO	Listening on port 63020
+2023-03-10 11:42:02.244 plugin-container[1909:54923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:42:02.244 plugin-container[1909:54923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:42:02.251 plugin-container[1909:54923] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:42:02.251 plugin-container[1909:54923] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:42:02.251 plugin-container[1909:54930] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:42:02.251 plugin-container[1909:54930] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 63020
+WebDriver BiDi listening on ws://127.0.0.1:63011
+1678428722328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileghylzB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63011/devtools/browser/ca2d4530-7500-408e-80f5-b3dc7e82864f
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678440519131	Marionette	INFO	Stopped listening on port 63020
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

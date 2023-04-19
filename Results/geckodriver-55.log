@@ -1,0 +1,21 @@
+1678441097061	geckodriver	INFO	Listening on 127.0.0.1:57665
+1678441097590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57666" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileeO0cO9"
+1678441097979	Marionette	INFO	Marionette enabled
+1678441098054	Marionette	INFO	Listening on port 57675
+2023-03-10 15:08:18.089 plugin-container[2960:210831] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:08:18.089 plugin-container[2960:210831] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:08:18.092 plugin-container[2960:210831] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:08:18.092 plugin-container[2960:210831] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:08:18.093 plugin-container[2960:210837] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:08:18.093 plugin-container[2960:210837] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57675
+WebDriver BiDi listening on ws://127.0.0.1:57666
+1678441098181	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileeO0cO9/search.json.mozlz4", (void 0)))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+DevTools listening on ws://127.0.0.1:57666/devtools/browser/48935f00-a02b-42fb-b979-5e4677994dcb
+1678441099461	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1678442210477	Marionette	INFO	Stopped listening on port 57675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

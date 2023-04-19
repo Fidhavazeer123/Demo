@@ -1,0 +1,22 @@
+1678441002578	geckodriver	INFO	Listening on 127.0.0.1:57265
+1678441003105	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57266" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileTfWWc7"
+1678441003482	Marionette	INFO	Marionette enabled
+1678441003563	Marionette	INFO	Listening on port 57275
+2023-03-10 15:06:43.614 plugin-container[2914:209358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:06:43.615 plugin-container[2914:209358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:06:43.621 plugin-container[2914:209358] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:06:43.621 plugin-container[2914:209358] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 15:06:43.621 plugin-container[2914:209368] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 15:06:43.621 plugin-container[2914:209368] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 57275
+WebDriver BiDi listening on ws://127.0.0.1:57266
+1678441003720	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileTfWWc7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57266/devtools/browser/236dea7a-a871-48e4-b1c0-5aff00bc37ef
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.jsm", 230))
+1678441080201	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.js", 334))
+1678442208271	Marionette	INFO	Stopped listening on port 57275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

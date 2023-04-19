@@ -1,0 +1,67 @@
+1679556322946	geckodriver	INFO	Listening on 127.0.0.1:63142
+1679556323469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63143" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileVCmR6c"
+1679556323850	Marionette	INFO	Marionette enabled
+2023-03-23 12:55:23.975 plugin-container[2880:127986] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:55:23.975 plugin-container[2880:127986] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:55:23.979 plugin-container[2880:127986] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:55:23.979 plugin-container[2880:127986] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-23 12:55:23.979 plugin-container[2880:127984] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-23 12:55:23.979 plugin-container[2880:127984] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1679556324035	Marionette	INFO	Listening on port 63148
+Read port: 63148
+WebDriver BiDi listening on ws://127.0.0.1:63143
+1679556324151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileVCmR6c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63143/devtools/browser/9183422e-c9c1-4f54-8676-ec9084249102
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demowebshop.tricentis.com."
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1679556334501	Marionette	INFO	Stopped listening on port 63148
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 4188: TypeError: this.toolbarButtons is undefined
+Handler function BrowserTabList.prototype.onCloseWindow's delayed body threw an exception: TypeError: topBrowsingContext is null
+Stack: getAllBrowsingContextsForContext@resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs:387:7
+getAllBrowsingContexts@resource://devtools/server/actors/watcher.js:151:12
+destroyTargets@resource://devtools/server/actors/watcher/target-helpers/frame-helper.js:171:36
+unwatchTargets@resource://devtools/server/actors/watcher.js:247:24
+destroy@resource://devtools/server/actors/watcher.js:174:12
+destroy@resource://devtools/shared/protocol/Pool.js:211:17
+destroy@resource://devtools/shared/protocol/Actor.js:88:11
+destroy@resource://devtools/server/actors/descriptors/tab.js:253:29
+BrowserTabList.prototype._handleActorClose@resource://devtools/server/actors/webbrowser.js:414:9
+BrowserTabList.prototype.onCloseWindow</<@resource://devtools/server/actors/webbrowser.js:663:16
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 387, column: 7
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+console.error: "Exception while opening the toolbox" "Error: Connection closed, pending request to server0.conn0.watcher2, type watchTargets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nstartListening@resource://devtools/shared/commands/target/target-command.js:507:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:572:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2833:22\ndespatch@chrome://remote/content/marionette/server.sys.mjs:303:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:276:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:249:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:250:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:496:20\n" (new Error("Connection closed, pending request to server0.conn0.watcher2, type watchTargets failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nstartListening@resource://devtools/shared/commands/target/target-command.js:507:35\nobserve@resource://gre/modules/AsyncShutdown.jsm:572:16\nGeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.sys.mjs:2833:22\ndespatch@chrome://remote/content/marionette/server.sys.mjs:303:40\nexecute@chrome://remote/content/marionette/server.sys.mjs:276:16\nonPacket/<@chrome://remote/content/marionette/server.sys.mjs:249:20\nonPacket@chrome://remote/content/marionette/server.sys.mjs:250:9\n_onJSONObjectReady/<@chrome://remote/content/marionette/transport.sys.mjs:496:20\n", "resource://devtools/shared/protocol/Front.js", 106))
+baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:106:23
+destroy@resource://devtools/shared/protocol/Front.js:74:10
+destroy@resource://devtools/shared/protocol/Pool.js:211:17
+baseFrontClassDestroy@resource://devtools/shared/protocol/Front.js:110:13
+destroy@resource://devtools/shared/protocol/Front.js:74:10
+destroy@resource://devtools/client/fronts/descriptors/descriptor-mixin.js:55:19
+destroy@resource://devtools/client/fronts/descriptors/tab.js:101:11
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onPacket@resource://devtools/shared/protocol/Front.js:349:13
+onPacket@resource://devtools/client/devtools-client.js:488:13
+send/<@resource://devtools/shared/transport/local-transport.js:67:25
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+
+JavaScript error: resource://devtools/client/shared/WeakMapMap.js, line 73: TypeError: WeakMap key must be an object, got key
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameParent.sys.mjs, line 123: Error: Watcher Actor with ID 'server0.conn0.watcher2' can't be found.
+console.error: "Error while calling actor 'watcher's method 'watchTargets'" "topBrowsingContext is null"
+console.error: (new TypeError("topBrowsingContext is null", "resource://devtools/server/actors/watcher/browsing-context-helpers.sys.mjs", 387))
+JavaScript error: resource://devtools/server/devtools-server-connection.js, line 103: TypeError: this.transport is null
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]

@@ -1,0 +1,18 @@
+1678427317199	geckodriver	INFO	Listening on 127.0.0.1:57605
+1678427317712	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57606" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile3owcEj"
+1678427318124	Marionette	INFO	Marionette enabled
+1678427318212	Marionette	INFO	Listening on port 57619
+Read port: 57619
+2023-03-10 11:18:38.278 plugin-container[1542:38711] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:38.278 plugin-container[1542:38711] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:18:38.293 plugin-container[1542:38711] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:38.293 plugin-container[1542:38711] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:18:38.293 plugin-container[1542:38720] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:18:38.293 plugin-container[1542:38720] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:57606
+1678427318382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofile3owcEj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57606/devtools/browser/459bef44-a988-4884-963f-03e875490c6a
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678427326464	Marionette	INFO	Stopped listening on port 57619

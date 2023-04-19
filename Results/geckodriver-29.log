@@ -1,0 +1,18 @@
+1678427206919	geckodriver	INFO	Listening on 127.0.0.1:57037
+1678427206927	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57038" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileDVl8xy"
+1678427207323	Marionette	INFO	Marionette enabled
+2023-03-10 11:16:47.483 plugin-container[1454:36246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:16:47.483 plugin-container[1454:36246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:16:47.498 plugin-container[1454:36246] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:16:47.498 plugin-container[1454:36246] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:16:47.499 plugin-container[1454:36250] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:16:47.499 plugin-container[1454:36250] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1678427207530	Marionette	INFO	Listening on port 57045
+Read port: 57045
+WebDriver BiDi listening on ws://127.0.0.1:57038
+1678427207660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileDVl8xy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57038/devtools/browser/aae7f0d6-4a40-4daa-b12e-ea67481b4f97
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1678427215108	Marionette	INFO	Stopped listening on port 57045

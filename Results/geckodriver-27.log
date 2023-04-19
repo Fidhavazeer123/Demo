@@ -1,0 +1,23 @@
+1678427053712	geckodriver	INFO	Listening on 127.0.0.1:56245
+1678427054223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56246" "--r ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileUoZKxN"
+1678427054656	Marionette	INFO	Marionette enabled
+1678427054753	Marionette	INFO	Listening on port 56255
+2023-03-10 11:14:14.834 plugin-container[1382:33846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:14:14.834 plugin-container[1382:33846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Read port: 56255
+2023-03-10 11:14:14.859 plugin-container[1382:33846] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:14:14.859 plugin-container[1382:33846] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 11:14:14.865 plugin-container[1382:33847] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 11:14:14.865 plugin-container[1382:33847] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://127.0.0.1:56246
+1678427054966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/sq/45_w8tg95mg50lbml10wv49r0000gn/T/rust_mozprofileUoZKxN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56246/devtools/browser/fb26acc6-de82-42e2-8441-92ede592fc5c
+JavaScript warning: https://www.amazon.com/ line 1887 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2023-03-10 05:44:22.596 plugin-container[1392:34240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 05:44:22.596 plugin-container[1392:34240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 05:44:22.599 plugin-container[1392:34240] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 05:44:22.600 plugin-container[1392:34240] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-03-10 05:44:22.601 plugin-container[1392:34228] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-03-10 05:44:22.601 plugin-container[1392:34228] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1678427064138	Marionette	INFO	Stopped listening on port 56255
